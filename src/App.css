@@ -1,0 +1,26 @@
+.container{
+  height:100vh;
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F7E7CE;
+}
+.calculator{
+  padding: 20px ;
+  background-color:#EDC9AF ;
+  border: 1px solid ;
+  border-radius: 10%;
+  -webkit-border-radius: 10%;
+  -moz-border-radius: 10%;
+  -ms-border-radius: 10%;
+  -o-border-radius: 10%;
+}
+.btn{
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+}
+.display input{
+  text-align:right ;
+}
